@@ -21,12 +21,12 @@ def output_array(array)
     puts array [count]
     count +=1
   end
-end 
+end
 
-def return_string_array(array) 
-   count = 0 
-   while count < array.lenght do 
-     array[count].to_s 
-     count += 1 
-   end 
+def return_string_array(array)
+   count = 0
+   while count < array.lenght do
+     array[count].to_s
+     count += 1
+   end
  end 
